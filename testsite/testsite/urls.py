@@ -29,3 +29,5 @@ urlpatterns = [
     path('getpdf/',views.getpdf),  
     path('index/',views.index)
 ]
+
+#Version updated for test
